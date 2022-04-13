@@ -1,0 +1,37 @@
+body{
+    background-image: url('img/pic.jpg');
+    margin:0px;
+    padding: 0px;
+}
+.btn a{
+    text-decoration: none;
+    cursor:pointer;
+    color: deeppink;
+}
+.mid{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px; 
+    
+
+}
+.btn{
+    border: 2px solid hotpink;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 0.98rem;
+    background-color: peachpuff;
+    color:rgb(255, 0, 149);
+    cursor:pointer
+}
+.btn:hover a{
+    color:blueviolet;
+}
+img{
+    padding: 30px;
+    width: 20%;
+    height: 250px;
+}
+  

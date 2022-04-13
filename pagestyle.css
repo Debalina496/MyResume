@@ -1,0 +1,102 @@
+body{
+    background-image: url('img/logo.jpg');
+    margin:0px;
+    padding: 0px;
+}
+.container{
+    /* border: 3px solid rgb(218, 27, 27); */
+    margin:auto;
+    width: 80%;
+    height: 100vw;
+
+}
+.leftsection{
+    float:left;
+    width:31%;
+    height: 100vw;
+    /* border: 3px solid blue; */
+    background-color: aquamarine;
+}
+.rightsection{
+    /* border: 3px solid blueviolet; */
+    float: right;
+    width:69%;
+    height: 100vw;
+    background-color: lightcyan;
+
+}
+#logo{
+    text-align: center;
+    margin-top: 20px;
+
+
+}
+img{
+    border-radius: 50%;
+}
+.naming{
+    /* border: 2px solid greenyellow; */
+    text-align: center;
+    color: crimson;
+    line-height: 0.5;
+    
+    
+    
+    
+}
+hr{
+    height: 0px;
+    width: 300px;
+    border-color:springgreen;
+
+}
+.text h1{
+    margin-left: 5px;
+    color:deeppink;
+    
+}
+#para{
+    margin-left: 2px;
+    margin-right: 2px;
+    padding :10px; 
+    color:lightcoral;
+}
+
+
+p{
+    color: coral;
+    font-size: 1.25rem;
+    
+}
+.edu{
+    color: deeppink;
+    line-height: 0.6;
+    margin-left: 10px;
+}
+.edu h3{
+    color:orangered;
+    font-size: 1.50rem;
+}
+.container2{
+    color:deeppink;
+    margin-left: 10px;
+}
+.container2 h4{
+    color:orangered;
+    font-size:1.50rem;
+}
+.container3{
+    line-height: 0.54;
+    color:deeppink;
+    margin-left: 10px;
+}
+.container3 h4{
+    color: orangered;
+   
+    font-size: 1.50rem;
+}
+.text2{
+    line-height: 0.5;
+    margin-left: 10px;
+    color: deeppink;
+}
